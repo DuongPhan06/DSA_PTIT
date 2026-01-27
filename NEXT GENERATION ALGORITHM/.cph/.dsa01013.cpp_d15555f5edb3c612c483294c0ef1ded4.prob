@@ -1,0 +1,1 @@
+{"name":"Local: dsa01013","url":"/home/duong/Documents/DSA_CODE_PTIT/NEXT GENERATION ALGORITHM/dsa01013.cpp","tests":[{"id":1760376487271,"input":"2\n01101\n01011","output":"01001\n01101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/NEXT GENERATION ALGORITHM/dsa01013.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: dsa09049","url":"/home/duong/Documents/DSA_CODE_PTIT/GRAPH/dsa09049.cpp","tests":[{"id":1764398357325,"input":"3\n1 1","output":"5 1 1"},{"id":1764398386825,"input":"5\n1 2 2 4","output":"13 8 1 3 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/GRAPH/dsa09049.cpp","group":"local","local":true}

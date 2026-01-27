@@ -1,0 +1,1 @@
+{"name":"Local: dsa07004","url":"/home/duong/Documents/DSA_CODE_PTIT/STACK/dsa07004.cpp","tests":[{"id":1760720386917,"input":"4\n))((\n((((\n(((())\n)(())(((","output":"2\n2\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/STACK/dsa07004.cpp","group":"local","local":true}

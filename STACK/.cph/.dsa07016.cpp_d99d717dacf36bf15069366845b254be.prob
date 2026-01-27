@@ -1,0 +1,1 @@
+{"name":"Local: dsa07016","url":"/home/duong/Documents/DSA_CODE_PTIT/STACK/dsa07016.cpp","tests":[{"id":1760953002524,"input":"4\nI\nD\nDD\nDDIDDIID\n","output":"12\n21\n321\n321654798"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/STACK/dsa07016.cpp","group":"local","local":true}

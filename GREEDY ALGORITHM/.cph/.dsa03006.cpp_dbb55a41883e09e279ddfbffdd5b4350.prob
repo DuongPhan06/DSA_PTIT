@@ -1,0 +1,1 @@
+{"name":"Local: dsa03006","url":"/home/duong/Documents/DSA_CODE_PTIT/GREEDY ALGORITHM/dsa03006.cpp","tests":[{"id":1758352849967,"input":"2\n7\n1 6 3 4 5 2 7\n7\n1 6 3 4 5 7 2","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/GREEDY ALGORITHM/dsa03006.cpp","group":"local","local":true}

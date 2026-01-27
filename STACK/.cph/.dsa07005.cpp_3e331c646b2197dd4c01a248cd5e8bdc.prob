@@ -1,0 +1,1 @@
+{"name":"Local: dsa07005","url":"/home/duong/Documents/DSA_CODE_PTIT/STACK/dsa07005.cpp","tests":[{"id":1761068850153,"input":"2\na–(b+c)\na-(b-c-(d+e))-f","output":"a-b-c\na-b+c+d+e-f"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/STACK/dsa07005.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: dsa08012","url":"/home/duong/Documents/DSA_CODE_PTIT/QUEUE/dsa08012.cpp","tests":[{"id":1762075604900,"input":"2\n4 13\n100 1000","output":"5\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/QUEUE/dsa08012.cpp","group":"local","local":true}

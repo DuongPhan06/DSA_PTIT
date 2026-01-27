@@ -1,0 +1,1 @@
+{"name":"Local: dsa08019","url":"/home/duong/Documents/DSA_CODE_PTIT/QUEUE/dsa08019.cpp","tests":[{"id":1761924656194,"input":"2\n2\n3","output":"6\n88 86 68 66 8 6\n14\n888 886 868 866 688 686 668 666 88 86 68 66 8 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/QUEUE/dsa08019.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: dsa02035","url":"/home/duong/Documents/DSA_CODE_PTIT/RECURSION AND BACKTRACKING/dsa02035.cpp","tests":[{"id":1756808445540,"input":"6 4\n5237\n2753\n7523\n5723\n5327\n2537","output":"2700"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/RECURSION AND BACKTRACKING/dsa02035.cpp","group":"local","local":true}

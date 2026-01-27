@@ -1,0 +1,1 @@
+{"name":"Local: dsa06049","url":"/home/duong/Documents/DSA_CODE_PTIT/SORTING AND SEARCHING/dsa06049.cpp","tests":[{"id":1758193182681,"input":"2\n4 3\n1 10 4 2\n3 5\n2 3 4","output":"2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/SORTING AND SEARCHING/dsa06049.cpp","group":"local","local":true}

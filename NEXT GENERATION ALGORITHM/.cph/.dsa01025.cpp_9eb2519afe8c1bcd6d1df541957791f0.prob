@@ -1,0 +1,1 @@
+{"name":"Local: dsa01025","url":"/home/duong/Documents/DSA_CODE_PTIT/NEXT GENERATION ALGORITHM/dsa01025.cpp","tests":[{"id":1759762922046,"input":"1\n4 2","output":"AB\nAC\nAD\nBC\nBD\nCD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/NEXT GENERATION ALGORITHM/dsa01025.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: dsa11014","url":"/home/duong/Documents/DSA_CODE_PTIT/BINARY TREE/dsa11014.cpp","tests":[{"id":1764930550191,"input":"2\n2\n1 2 L 1 3 R\n5\n10 20 L 10 30 R 20 40 L 20 60 R 30 90 L","output":"3\n60"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/duong/Documents/DSA_CODE_PTIT/BINARY TREE/dsa11014.cpp","group":"local","local":true}
